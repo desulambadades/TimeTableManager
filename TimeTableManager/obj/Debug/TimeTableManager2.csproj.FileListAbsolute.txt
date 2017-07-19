@@ -1,0 +1,13 @@
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\bin\Debug\TimeTableManager2.exe.config
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\bin\Debug\TimeTableManager2.exe
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\bin\Debug\TimeTableManager2.pdb
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\bin\Debug\EntityFramework.dll
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\bin\Debug\EntityFramework.xml
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\obj\Debug\TimeTableManager2.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\obj\Debug\TimeTableManager2.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\obj\Debug\TimeTableManager2.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\obj\Debug\TimeTableManager2.exe
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\obj\Debug\TimeTableManager2.pdb
+c:\users\anton\documents\visual studio 2017\Projects\TimeTableManager2\TimeTableManager2\obj\Debug\TimeTableManager.Form1.resources
